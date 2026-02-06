@@ -16,7 +16,7 @@ class Hexagon extends Shape {
         System.out.println("Hexagon has 6 sides");
     }
 }
-public class Main {
+public class AbstractShapes {
     public static void main(String[] args) {
 
         Shape r = new Rectangle();
